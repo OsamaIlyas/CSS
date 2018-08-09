@@ -1,0 +1,57 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+#main-h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+th{
+    padding: 10px;
+}
+.h{
+   background-color: #00B6BC;
+}
+.he{
+    background-color: #369091;
+}
+.li{
+    background-color: #1B67C9;
+}
+.be{
+    background-color: #A166A0;
+}
+.b{
+    background-color: #F5B659;
+}
+.c{
+    background-color: #00B6BC;
+}
+.f{
+background-color: #59CF6E;
+}
+.ne{
+ background-color: #329090;
+}
+.sc{
+ background-color: #F53951;   
+}
+.nh{
+    background-color: #859998;
+}
+.ai{
+    background-color: #F36E4B;
+}
+.la{
+   background-color: #004E75;
+   }
+.ac{
+background-color: #562D55;
+}
+#container
+{
+    margin-left: 250px;
+}
